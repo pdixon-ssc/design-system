@@ -3379,7 +3379,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@securityscorecard/design-system@workspace:.":
+"@securityscorecard/design-system@^1.0.0-alpha.232, @securityscorecard/design-system@workspace:.":
   version: 0.0.0-use.local
   resolution: "@securityscorecard/design-system@workspace:."
   dependencies:
@@ -3403,6 +3403,7 @@ __metadata:
     "@rollup/plugin-commonjs": ^21.0.3
     "@rollup/plugin-node-resolve": ^13.2.0
     "@rollup/plugin-url": ^6.1.0
+    "@securityscorecard/design-system": ^1.0.0-alpha.232
     "@semantic-release/changelog": ^6.0.1
     "@semantic-release/commit-analyzer": ^9.0.2
     "@semantic-release/git": ^10.0.1
